@@ -110,3 +110,8 @@ coverage
 exports
 .cache
 build
+
+############################
+# Package
+############################
+package-lock.json
