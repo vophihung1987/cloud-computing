@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_order_items",
+  "info": {
+    "name": "Item",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "Product": {
+      "model": "product"
+    },
+    "Qty": {
+      "type": "integer"
+    }
+  }
+}
